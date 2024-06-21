@@ -1,16 +1,16 @@
 /**
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Venocyber-md
-   * @author : Venocyber Tech
-   * @youtube : https://www.youtube.com/@JASTINMTEWA-vn9pl
-   * @infoription : Venocyber-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Mrsky-md
+   * @author : Mrsky Tech
+   * @whatsapp : https://chat.whatsapp.com/HJgOTkcWL0BBqpsMm5cT6T
+   * @infoription : Mrsky-Md ,A Multi-functional whatsapp user bot.
    * @version 1.0.0 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Venocyber Tech.
-   * © 2024 Venocyber-Md ✭ ⛥.
+   * ┌┤Created By Mrsky Tech.
+   * © 2024 Mrsky-Md ✭ ⛥.
    * plugin date : 17/3/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -23,7 +23,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 
 
-let VenocyberTech = "Owner";
+let MrskyTech = "Owner";
 
 
 /*
